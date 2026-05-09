@@ -1,13 +1,11 @@
 ### Hi there 👋
-For more than 20 years, I have merged marketing, gaming, and customer education into powerful communications that equip and motivate players to make meaningful and measurable changes to their acquisition, onboarding, engagement, and retention. This experience spans industries but focuses on impactful adoption of emerging technologies. From the early Web to mobile, into the Cloud and onto the Web3; I take a sleeves-rolled up leadership approach that starts in the storm clouds of strategy and rains down into checklist tactics. 
+For more than 20 years, I have merged marketing, gaming, and customer education into communications that both equip and motivate audiences to make meaningful and attributable changes in their acquisition, onboarding, engagement, and retention. My experience spans several industries but is based on impactful adoption of emerging technologies: From the early Web to mobile apps, taking Saas into the Cloud and then onto Web3. Now my focus is on the agentic AI era. I take a sleeves-rolled-up, in-the-trenches, multi-hypenated leadership approach that starts in adaptable strategy and then dives down into checklists of actionable tactics.
 
-Okay, that last part sounded a bit dramatic but I wanted to demonstrate that I am a human writing this and not generative AI — assuming that I am not operating within some sort of Westworld/Battlestar Galactica scenario. Let's share a video interview, just to make sure. 
-
-Vincent Kovar
 https://link3.to/vincentk
 
-- 🌱 I’m currently learning: Blockchain, Godot, Fungus, and Generative AI
-- 👯 I’m looking to collaborate on: Audio Drama Podcasts
-- 💬 Ask me about: Marketing
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: He/Him
+🤖 Currently building with: AI Agents (Google ADK, Microsoft Copilot Studio, Claude-Anthropic), agentic workflow design, and no-code/low-code AI deployment. Also banging around in DataRobot, AWS Sagemaker, AI Studio, and Repl.it.
+🧠 Recent AI training: Enterprise agent architecture (more Google Cloud, Anthropic, Microsoft), Gemini multimodality & RAG, Vertex AI MLOps, Ethical-Responsible AI (GRC focus), prompt engineering, and BigQuery ML
+🌱 Also learning: Godot and Generative AI applications in game design and interactive narrative
+👯 Looking to collaborate on: AI-powered learning experiences, audio drama podcasts, and ARGs because I am a nerd
+💬 Ask me about: AI adoption strategy, marketing, instructional design, or why that last AI seminar you went to was a sales funnel you probably could have skipped.
+📫 How to reach me: https://www.linkedin.com/in/vincentkovar
