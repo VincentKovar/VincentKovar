@@ -3,7 +3,7 @@ For more than 20 years, I have merged marketing, gaming, and customer education 
 
 https://link3.to/vincentk
 
-🤖 Currently building with: AI Agents (Google ADK, Microsoft Copilot Studio, Claude-Anthropic), agentic workflow design, and no-code/low-code AI deployment. Also banging around in DataRobot, AWS Sagemaker, AI Studio, and Repl.it.
+🤖 Currently building with: AI Agents (Google ADK, Microsoft Copilot Studio, Claude-Anthropic), agentic workflow design, and no-code/low-code AI deployment. Also banging around in DataRobot, AWS Sagemaker, AI Studio, Lovable, Antigravity, and Repl.it.
 
 🧠 Recent AI training: Enterprise agent architecture (more Google Cloud, Anthropic, Microsoft), Gemini multimodality & RAG, Vertex AI MLOps, Ethical-Responsible AI (GRC focus), prompt engineering, and BigQuery ML
 
